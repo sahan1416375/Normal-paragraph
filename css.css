@@ -1,0 +1,19 @@
+.par1{
+	width: 600px;
+	height: 600px;
+	border:1px solid black;
+	background-image: url("1.jpg");
+}
+.par2{
+	color: black;
+	width: 75%;
+	height: 400px;
+	background-color: white;
+	opacity: 0.7;
+	margin-left: 50px;
+	margin-top: 100px;
+	padding: 20px 20px;
+	text-align: center;
+	line-height: 1.5;
+
+}
